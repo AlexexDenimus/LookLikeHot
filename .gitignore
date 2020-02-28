@@ -63,4 +63,4 @@ buck-out/
 # CocoaPods
 /ios/Pods/
 
-debug.log
+*debug.log*
